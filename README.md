@@ -15,3 +15,5 @@ I'm a Python enthusiast, one of the [PyCon UK](http://pyconuk.org) organisers an
 </p>
 
 ![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=meatballs&count_private=true&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meatballs&hide=html,css&theme=transparent)](https://github.com/meatballs/github-readme-stats)
