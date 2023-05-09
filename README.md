@@ -13,4 +13,4 @@ I'm a Python enthusiast, one of the [PyCon UK](http://pyconuk.org) organisers an
 <a href="https://www.linkedin.com/in/owencampbell/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discordapp.com/users/502041149402251266"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=meatballs&count_private=true&show_icons=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=meatballs&count_private=true&show_icons=true)
