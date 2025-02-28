@@ -6,8 +6,6 @@ I'm a well-established Freelance Software Engineer with 30+ years' experience.
 
 I'm UK based with clients around the world - of all sizes and in a wide variety of sectors.
 
-I'm a Python enthusiast, one of the [PyCon UK](http://pyconuk.org) organisers and chair of the [UK Python Association](https://uk.python.org).
-
 ![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=meatballs&count_private=true&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meatballs&hide=html,css,jupyter%20notebook&theme=transparent)](https://github.com/meatballs/github-readme-stats)
